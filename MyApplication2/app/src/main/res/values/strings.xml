@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="ColorGame">Color Game</string>
+    <string name="Red">Red</string>
+    <string name="GametheColor">Color Game</string>
+    <string name="Red1">Red</string>
+    <string name="Green">Green</string>
+    <string name="Blue">Blue</string>
+    <string name="Score">Score: 0</string>
+    <string name="Timer">"Timer: "</string>
+    <string name="Word">Color</string>
+    <string name="Next">Next</string>
+    <string name="Secounds">Seconds left:</string>
+    <string name="title_activity_end"></string>
+    <string name="Replay">Replay</string>
+    <string name="Quit">Quit</string>
+</resources>
